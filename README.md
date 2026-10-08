@@ -1,8 +1,8 @@
 # Custom Convolution & Transfer Learning
 
-**Name: Shashank Reddy Dasari     
+**Name: Shashank Reddy Dasari **    
 
-  ID:700781569**
+**ID:700781569**
 
 
 ---
